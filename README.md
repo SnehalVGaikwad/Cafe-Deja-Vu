@@ -1,2 +1,2 @@
 # Cafe-Deja-Vu
-SAmple cafe website
+Sample cafe website
